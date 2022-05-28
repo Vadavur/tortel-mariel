@@ -1,1 +1,1 @@
-This repository is used for React learning.`
+Bakery shop site
